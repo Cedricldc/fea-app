@@ -1,6 +1,6 @@
 body {
   margin: 0 0 0 0;
-  background-image:url(images/Carte_St_Laurent].jpeg);
+  background-image:url(../images/Carte_St_Laurent].jpeg);
   background-size: 100%;
   background-repeat: no-repeat;
   height: 100%;
@@ -10,6 +10,7 @@ body {
   display: block;
   margin: 35px auto;
   width: 20%;
+  height: auto;
 }
 
 .cta-title {
@@ -22,7 +23,7 @@ body {
 }
 
 .cta {
-  background-image: url(images/cta.png);
+  background-image: url(../images/cta.png);
   background-size: 100%;
   background-repeat: no-repeat;
   margin:auto;
