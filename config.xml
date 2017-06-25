@@ -13,6 +13,5 @@
       Hardeep Shoker
   </author>
   <content src="www/index.html" />
-  <access origin="*"/>
   <icon src="icon.png" gap:role="default" />
 </widget>
