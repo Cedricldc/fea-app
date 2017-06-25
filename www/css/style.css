@@ -1,0 +1,47 @@
+body {
+  margin: 0 0 0 0;
+  background-image:url(../images/Carte_St_Laurent].jpeg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+h1 {
+  font-size: 1.5rem;
+}
+
+.logo {
+  display: block;
+  margin: 3% auto;
+  width: 20%;
+  height: auto;
+}
+
+#cta-center {
+
+}
+
+.cta {
+  background-image: url(../images/cta.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: auto;
+  width:350px;
+  height: 100px;
+}
+
+
+.cta-title {
+  margin: 0;
+  padding-top: 5%;
+  text-align: center;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.cta-round {
+  width: 55px;
+  position: fixed;
+  bottom: 3%;
+  right: 3%;
+}
