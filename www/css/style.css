@@ -1,6 +1,7 @@
 body {
   margin: 0 0 0 0;
   background-image:url(../images/Carte_St_Laurent].jpeg);
+  background-attachment: fixed;
   background-size: 100%;
   background-repeat: no-repeat;
   height: 100%;
